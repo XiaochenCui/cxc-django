@@ -29,5 +29,5 @@ setup(
     ],
     keywords='django',
     packages=find_packages(),
-    install_requires=['django', 'django-rest-framework', ],
+    install_requires=['django', 'django-rest-framework', 'cxc-gis'],
 )
