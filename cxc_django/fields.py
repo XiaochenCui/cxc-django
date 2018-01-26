@@ -1,6 +1,5 @@
-import json
 from django.db import models
-from cxc_gis.models import Location, Region
+from cxc_gis.models import Region
 
 
 class LocationField(models.Field):
