@@ -10,6 +10,9 @@ A django wrapper
 .. image:: https://img.shields.io/travis/XiaochenCui/cxc-django.svg
     :target: https://travis-ci.org/XiaochenCui/cxc-django
 
+.. image:: https://codecov.io/gh/XiaochenCui/cxc-django/branch/master/graph/badge.svg
+    :target: https://codecov.io/gh/XiaochenCui/cxc-django
+
 Aim to provide the most complete django wrapper and the most efficient interface to meet the ambiguous needs of outsourcing projects.
 
 Installation
